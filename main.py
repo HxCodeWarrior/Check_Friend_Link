@@ -25,7 +25,7 @@ HEADERS = {
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
         "Chrome/123.0.0.0 Safari/537.36 "
-        "(check-flink/1.0; +https://github.com/willow-god/check-flink)"
+        "(check-flink/1.0; +https://github.com/HxCodeWarrior/Check_Friend_link)"
     ),
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "zh-CN,zh;q=0.9",
@@ -39,7 +39,7 @@ RAW_HEADERS = {  # 仅用于获取原始数据，防止接收到Accept-Language�
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
         "Chrome/123.0.0.0 Safari/537.36 "
-        "(check-flink/1.0; +https://github.com/willow-god/check-flink)"
+        "(check-flink/1.0; +https://github.com/HxCodeWarrior/Check_Friend_link)"
     ),
     "X-Check-Flink": "1.0"
 }
